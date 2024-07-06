@@ -22,4 +22,4 @@ To win you need to do Modulo 4 do each digit in your id and than change the resu
 
 The displayed country name depends on the 7 digit in your id.
 
-<img src="(https://github.com/alonshlomi1/AndroidSecurity_02/assets/98226796/2a8f4900-6bf2-4a47-82e4-ddb3f29d1e9e" alt="Recipe Details" width="300">
+<img src="https://github.com/alonshlomi1/AndroidSecurity_02/assets/98226796/7d35601d-cd98-4b06-894e-237cdf8a6c9d" alt="game winner" width="300">
